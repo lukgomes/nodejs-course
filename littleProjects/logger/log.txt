@@ -1,0 +1,2 @@
+[2025-04-09T02:30:06.258Z] Excecução generica
+[2025-04-09T02:30:25.068Z] Aconteceu algo de errado aqui nessa hora
